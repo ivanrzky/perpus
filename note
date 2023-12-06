@@ -1,0 +1,69 @@
+membuat website perpustakaan berbasis laravel
+  wireframe
+    -create layout
+    -tentukan logo
+    -hak akses
+      -fitur login
+        -admin
+        -pengunjung
+        -petugas
+      -register
+        -username
+        -password
+        -nama
+        -tanggal lahir
+        -email
+        -kamu adalah ?(Student,Karyawan,dll)
+      -input buku
+        -isbn
+        -cover
+        -judul
+        -sinopsis
+        -ketersediaan
+        -tanggal terbit
+        -intesitas buku dipinjam
+
+      -meminjam buku
+        -tanggal minjam
+        -tanggal balikin
+        - 
+      -delete content/buku
+    -Layout page
+      -login
+        -username
+        -password
+        -tombol login dan register
+      -register
+        -username
+        -password
+        -nama
+        -tanggal lahir
+        -email
+        -kamu adalah ?(Student,Karyawan,dll)
+      -homepage
+        -logo
+        -navigasi
+        -logo user
+        -search bar
+        -most popular book
+        -3 content(short detail book) on bottom
+      -detail book on homepage
+        -mini cover
+        -short synopsis
+        -genre
+        -button detail
+        -
+      -detail on click
+        -cover
+        -judul
+        -sinopsis
+        -genre
+        -isbn
+        -tanggal terbit
+        -
+      -peminjaman
+        -tanggal peminjaman
+        -tanggal pengembalian
+        -
+      -
+
